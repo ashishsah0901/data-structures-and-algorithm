@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Matrix
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0115-distinct-subsequences) |
 | [0516-longest-palindromic-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0516-longest-palindromic-subsequence) |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -136,4 +140,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 <!---LeetCode Topics End-->
