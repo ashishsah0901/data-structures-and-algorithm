@@ -1,11 +1,14 @@
 class Solution {
     public int change(int amount, int[] coins) {
         int n = coins.length;
-        int dp[][] = new int[amount + 1][n + 1];
-        for (int a[]: dp) {
-            Arrays.fill(a, -1);
+        int dp[] = new int[amount + 1];
+        dp[0] = 1;
+        for (int coin: coins) {
+            for (int i = coin; i <= amount; i++) {
+                dp[i] += dp[i - coin];
+            }
         }
-        return count(amount, coins, 0, dp);
+        return dp[amount];
     }
     private int count(int amount, int[] coins, int idx, int dp[][]) {
         if (amount < 0) {
