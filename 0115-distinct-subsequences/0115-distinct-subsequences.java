@@ -1,51 +1,15 @@
 class Solution {
-    /*
-    f(i, j) -> no.of distinct of s[0..i] and t[i..j]
-
-    if (j < 0) {
-        retrun 1;
-    }
-    if (i < 0) {
-        return 0;
-    }
-
-    if (s[i] == t[j]) {
-        return f(i-1, j-1) + f(i-1, j)
-    } else {
-        return f(i-1, j);
-    }
-    */
-    private int count(String s, String t, int i, int j, int dp[][]) {
-        if (j < 0) {
-            return 1;
-        }
-        if (i < 0) {
-            return 0;
-        }
-        if (dp[i][j] != 0) {
-            return dp[i][j];
-        }
-        if (s.charAt(i) == t.charAt(j)) {
-            return dp[i][j] = count(s, t, i - 1, j - 1, dp) + count(s, t, i - 1, j, dp);
-        } else {
-            return dp[i][j] = count(s, t, i - 1, j, dp);
-        }
-    }
     public int numDistinct(String s, String t) {
         int n = s.length(), m = t.length();
-        int dp[][] = new int[n + 1][m + 1];
-        for (int i = 0; i < n; i++) {
-            dp[i][0] = 1;
-        }
+        int[] curr = new int[m + 1];
+        curr[0] = 1;
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
+            for (int j = m; j > 0; j--) {
                 if (s.charAt(i - 1) == t.charAt(j - 1)) {
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
+                    curr[j] += curr[j - 1];
                 }
             }
         }
-        return dp[n][m];
+        return curr[m];
     }
 }
