@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
 ## Depth-First Search
 |  |
@@ -169,5 +172,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
