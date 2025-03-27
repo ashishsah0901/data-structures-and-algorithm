@@ -16,14 +16,27 @@ class Solution {
         return dp[i][j] = min;
     }
     public int maxCoins(int[] nums) {
-        int n = nums.length + 2;
-        int nNums[] = new int[n];
+        int n = nums.length;
+        int nNums[] = new int[n + 2];
         nNums[0] = 1;
-        nNums[n - 1] = 1;
-        for (int i = 0; i < n - 2; i++) {
+        nNums[n + 1] = 1;
+        for (int i = 0; i < n; i++) {
             nNums[i + 1] = nums[i];
         }
-        int dp[][] = new int[n][n];
-        return solve(nNums, 1, n - 2, dp);
+        int dp[][] = new int[n + 2][n + 2];
+        for (int i = n; i >= 1; i--) {
+            for (int j = 1; j <= n; j++) {
+                if (i > j) continue;
+                int min = Integer.MIN_VALUE;
+                for (int k = i; k <= j; k++) {
+                    int curr = nNums[k] * nNums[i - 1] * nNums[j + 1]
+                    + dp[i][k - 1]
+                    + dp[k + 1][j];
+                    min = Math.max(min, curr);
+                }
+                dp[i][j] = min;
+            }
+        }
+        return dp[1][n];
     }
 }
