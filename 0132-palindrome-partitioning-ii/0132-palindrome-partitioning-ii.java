@@ -9,28 +9,26 @@ class Solution {
         }
         return true;
     }
-    private int cuts(String s, int i, int j, int dp[][]) {
-        if (i >= j) {
+    private int cuts(String s, int i, int n, int dp[]) {
+        if (i == n) {
             return 0;
         }
-        if (dp[i][j] != 0) {
-            return dp[i][j];
-        }
-        if (isPal(s, i, j)) {
-            return 0;
+        if (dp[i] != -1) {
+            return dp[i];
         }
         int min = Integer.MAX_VALUE;
-        for (int k = i; k <= j; k++) {
+        for (int k = i; k < n; k++) {
             if (isPal(s, i, k)) {
-                int curr = cuts(s, k + 1, j, dp) + 1;
+                int curr = cuts(s, k + 1, n, dp) + 1;
                 min = Math.min(min, curr);
             }
         }
-        return dp[i][j] = min;
+        return dp[i] = min;
     }
     public int minCut(String s) {
         int n = s.length();
-        int dp[][] = new int[n][n];
-        return cuts(s, 0, n - 1, dp);
+        int dp[] = new int[n];
+        Arrays.fill(dp, -1);
+        return cuts(s, 0, n, dp) - 1;
     }
 }
