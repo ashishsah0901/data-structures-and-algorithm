@@ -27,8 +27,17 @@ class Solution {
     }
     public int minCut(String s) {
         int n = s.length();
-        int dp[] = new int[n];
-        Arrays.fill(dp, -1);
-        return cuts(s, 0, n, dp) - 1;
+        int dp[] = new int[n + 1];
+        for (int i = n - 1; i >= 0; i--) {
+            int min = Integer.MAX_VALUE;
+            for (int k = i; k < n; k++) {
+                if (isPal(s, i, k)) {
+                    int curr = dp[k + 1] + 1;
+                    min = Math.min(min, curr);
+                }
+            }
+            dp[i] = min;
+        }
+        return dp[0] - 1;
     }
 }
