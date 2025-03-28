@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -90,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0322-coin-change) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Hash Table
 |  |
 | ------- |
@@ -181,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->
