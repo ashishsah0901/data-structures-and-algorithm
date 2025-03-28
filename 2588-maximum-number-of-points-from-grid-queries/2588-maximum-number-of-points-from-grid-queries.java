@@ -1,42 +1,40 @@
 class Solution {
+    int[][] dir = {{0,1}, {0,-1}, {1,0}, {-1,0}};
     public int[] maxPoints(int[][] grid, int[] queries) {
-        int rows = grid.length, cols = grid[0].length;
-        int[][] directions = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
-
-        int n = queries.length;
-        int[] result = new int[n];
-        int[][] visited = new int[rows][cols];
-
-        PriorityQueue<int[]> minHeap = new PriorityQueue<>(Comparator.comparingInt(a -> a[0]));
-        List<int[]> sortedQueries = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            sortedQueries.add(new int[]{queries[i], i});
+        int[][] sortedQueries = new int[queries.length][2];
+        for(int i = 0; i < queries.length; i++){
+            sortedQueries[i][0] = queries[i];
+            sortedQueries[i][1] = i;
         }
-        sortedQueries.sort(Comparator.comparingInt(a -> a[0]));
-
-        minHeap.offer(new int[]{grid[0][0], 0, 0});
-        visited[0][0] = 1;
+        Arrays.sort(sortedQueries, (a,b) -> a[0]-b[0]);
+        int[] resultant = new int[queries.length];
         int points = 0;
-
-        for (int[] q : sortedQueries) {
-            int queryVal = q[0], queryIdx = q[1];
-
-            while (!minHeap.isEmpty() && minHeap.peek()[0] < queryVal) {
-                int[] top = minHeap.poll();
-                int row = top[1], col = top[2];
+        PriorityQueue<int[]> q = new PriorityQueue<>((a,b) -> a[0]-b[0]);
+        q.offer(new int[] {grid[0][0], 0, 0});
+        for(int i = 0; i < sortedQueries.length; i++){
+            int valQueried = sortedQueries[i][0];
+            int pos = sortedQueries[i][1];
+            while(!q.isEmpty() && q.peek()[0] < valQueried){
                 points++;
-
-                for (int[] dir : directions) {
-                    int nr = row + dir[0], nc = col + dir[1];
-                    if (nr >= 0 && nr < rows && nc >= 0 && nc < cols && visited[nr][nc] == 0) {
-                        minHeap.offer(new int[]{grid[nr][nc], nr, nc});
-                        visited[nr][nc] = 1;
+                int[] info = q.poll();
+                int cellVal = info[0];
+                int row = info[1];
+                int col = info[2];
+                grid[row][col] = -1;
+                for(int j = 0; j < dir.length; j++){
+                    int newrow = row + dir[j][0];
+                    int newcol = col + dir[j][1];
+                    if(newrow < 0 || newcol < 0 || newrow >= grid.length || newcol >= grid[0].length){continue;}
+                    if(grid[newrow][newcol] != -1){
+                        q.offer(new int[] {grid[newrow][newcol], newrow, newcol});
+                        grid[newrow][newcol] = -1;
                     }
                 }
             }
-            result[queryIdx] = points;
+            resultant[pos] = points;
+
         }
-        return result;
+
+        return resultant;
     }
 }
