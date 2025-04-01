@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 ## Combinatorics
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
