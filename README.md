@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
@@ -207,4 +208,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
