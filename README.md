@@ -98,10 +98,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Two Pointers
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
