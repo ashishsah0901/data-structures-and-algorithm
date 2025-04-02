@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
@@ -289,9 +290,15 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
