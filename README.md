@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
