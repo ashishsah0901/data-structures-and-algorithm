@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
