@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -263,11 +264,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 | [1508-longest-happy-prefix](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1508-longest-happy-prefix) |
 ## Prefix Sum
 |  |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
