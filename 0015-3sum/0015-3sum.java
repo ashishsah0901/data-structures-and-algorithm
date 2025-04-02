@@ -1,27 +1,29 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
-        Arrays.sort(nums);
         int n = nums.length;
-        for (int i = 0; i < n - 1; i++) {
+        Arrays.sort(nums);
+        for (int i = 0; i < n - 1 && nums[i] <= 0; i++) {
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
-            twoSum(nums, ans, i + 1, n - 1, -nums[i]);
+            twoSum(nums, ans, i + 1, n - 1, 0 - nums[i]);
         }
         return ans;
     }
-    private void twoSum(int nums[], List<List<Integer>> ans, int start, int end, int target) {
-        while (start < end) {
-            if (nums[start] + nums[end] < target) {
-                start++;
-            } else if (nums[start] + nums[end] > target) {
-                end--;
+
+    public void twoSum(int[] nums, List<List<Integer>> ans, int left, int right, int target) {
+        while (left < right) {
+            if (nums[left] + nums[right] < target) {
+                left++;
+            } else if (nums[left] + nums[right] > target) {
+                right--;
             } else {
-                ans.add(Arrays.asList(new Integer[] {-target, nums[start], nums[end]}));
-                start++;
-                while (start < end && nums[start] == nums[end]) {
-                    start++;
+                ans.add(
+                        Arrays.asList(new Integer[] { -target, nums[left], nums[right] }));
+                left++;
+                while (left < right && nums[left] == nums[left - 1]) {
+                    left++;
                 }
             }
         }
