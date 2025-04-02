@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
+| [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
