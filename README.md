@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
+| [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
 ## Sorting
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
