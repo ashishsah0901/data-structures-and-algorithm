@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0038-count-and-say](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0115-distinct-subsequences) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
