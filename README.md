@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 ## Matrix
 |  |
 | ------- |
