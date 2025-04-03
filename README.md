@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0312-burst-balloons) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
+| [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
