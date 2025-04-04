@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -305,12 +308,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
