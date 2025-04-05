@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
