@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0046-permutations) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0493-reverse-pairs) |
