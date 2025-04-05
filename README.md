@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Array
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
@@ -333,4 +337,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0090-subsets-ii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
