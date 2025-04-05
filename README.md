@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
