@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
 ## Monotonic Stack
@@ -364,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
