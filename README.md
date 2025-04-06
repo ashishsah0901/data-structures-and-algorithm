@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
