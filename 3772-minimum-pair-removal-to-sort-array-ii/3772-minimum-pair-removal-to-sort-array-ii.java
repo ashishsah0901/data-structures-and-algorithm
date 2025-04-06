@@ -30,12 +30,8 @@ class Solution {
 
     public int minimumPairRemoval(int[] nums) {
         int n = nums.length;
-
-        // If only one element, array is trivially non-decreasing.
         if (n <= 1)
             return 0;
-
-        // Create doubly linked list nodes corresponding to the array
         Node[] nodes = new Node[n];
         for (int i = 0; i < n; i++) {
             nodes[i] = new Node(nums[i], i);
@@ -46,7 +42,6 @@ class Solution {
         }
         Node head = nodes[0];
 
-        // Count the number of adjacent violations (left > right)
         int violations = 0;
         Node cur = head;
         while (cur != null && cur.right != null) {
@@ -56,11 +51,9 @@ class Solution {
             cur = cur.right;
         }
 
-        // If there are no violations, array is already non-decreasing.
         if (violations == 0)
             return 0;
 
-        // PriorityQueue for candidate merges.
         PriorityQueue<Node> pq = new PriorityQueue<>();
         cur = head;
         while (cur != null && cur.right != null) {
@@ -70,21 +63,12 @@ class Solution {
 
         int operations = 0;
 
-        // We simulate until the list becomes non-decreasing (violations==0)
-        while (violations > 0) {
-            // Poll the candidate with the smallest sum (and leftmost in case of tie)
+        while (violations > 0 && !pq.isEmpty()) {
             Node candidate = pq.poll();
-            if (candidate == null) {
-                // In theory, we should always have a candidate if there is more than one element.
-                break;
-            }
             // Check if candidate is still valid: both nodes must not have been removed and left.right must equal right.
             if (candidate.left.removed || candidate.right.removed || candidate.left.right != candidate.right) {
-                continue; // skip obsolete candidate
+                continue;
             }
-
-            // For the valid candidate, do the merge.
-            // Let L be candidate.left.left and R be candidate.right.right.
             Node leftNeighbor = candidate.left.left;
             Node rightNeighbor = candidate.right.right;
 
