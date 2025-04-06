@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0008-string-to-integer-atoi](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
