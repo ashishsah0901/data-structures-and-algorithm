@@ -1,10 +1,9 @@
 class Solution {
-    private static class Node {
-        long value; // use long so that sums don’t overflow
-        int pos; // "position" used for tie–breaking (the leftmost node is smaller)
+    private class Node implements Comparable<Node> {
+        long value;
+        int pos;
         Node left, right;
-        boolean removed; // mark if this node was removed
-
+        boolean removed;
         Node(long value, int pos) {
             this.value = value;
             this.pos = pos;
@@ -12,27 +11,18 @@ class Solution {
             this.right = null;
             this.removed = false;
         }
-    }
 
-    // Candidate adjacent–pair for merging.
-    // It stores a pointer to left node and right node, along with the sum and the left node’s pos.
-    private static class PairCandidate implements Comparable<PairCandidate> {
-        long sum; // sum = left.value + right.value
-        int pos; // left node position (to break ties)
-        Node left, right;
-
-        PairCandidate(Node left, Node right) {
+        Node (Node left, Node right) {
             this.left = left;
             this.right = right;
-            this.sum = left.value + right.value;
+            this.value = left.value + right.value;
             this.pos = left.pos;
         }
 
-        // Compare first by sum, then by left node’s pos.
         @Override
-        public int compareTo(PairCandidate other) {
-            if (this.sum != other.sum) {
-                return Long.compare(this.sum, other.sum);
+        public int compareTo(Node other) {
+            if (this.value != other.value) {
+                return Long.compare(this.value, other.value);
             }
             return Integer.compare(this.pos, other.pos);
         }
@@ -71,10 +61,10 @@ class Solution {
             return 0;
 
         // PriorityQueue for candidate merges.
-        PriorityQueue<PairCandidate> pq = new PriorityQueue<>();
+        PriorityQueue<Node> pq = new PriorityQueue<>();
         cur = head;
         while (cur != null && cur.right != null) {
-            pq.offer(new PairCandidate(cur, cur.right));
+            pq.offer(new Node(cur, cur.right));
             cur = cur.right;
         }
 
@@ -83,7 +73,7 @@ class Solution {
         // We simulate until the list becomes non-decreasing (violations==0)
         while (violations > 0) {
             // Poll the candidate with the smallest sum (and leftmost in case of tie)
-            PairCandidate candidate = pq.poll();
+            Node candidate = pq.poll();
             if (candidate == null) {
                 // In theory, we should always have a candidate if there is more than one element.
                 break;
@@ -145,10 +135,10 @@ class Solution {
 
             // Add new candidate adjacent pairs formed by the new node.
             if (newNode.left != null) {
-                pq.offer(new PairCandidate(newNode.left, newNode));
+                pq.offer(new Node(newNode.left, newNode));
             }
             if (newNode.right != null) {
-                pq.offer(new PairCandidate(newNode, newNode.right));
+                pq.offer(new Node(newNode, newNode.right));
             }
 
             // Increment operation count.
