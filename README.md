@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
+| [0151-reverse-words-in-a-string](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0647-palindromic-substrings) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0091-decode-ways](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0132-palindrome-partitioning-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0647-palindromic-substrings) |
