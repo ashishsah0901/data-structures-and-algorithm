@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1036-rotting-oranges) |
 | [1121-partition-array-for-maximum-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Depth-First Search
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [1036-rotting-oranges](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1036-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
