@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0063-unique-paths-ii) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0061-rotate-list) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0044-wildcard-matching) |
