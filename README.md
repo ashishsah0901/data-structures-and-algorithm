@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0572-subtree-of-another-tree) |
