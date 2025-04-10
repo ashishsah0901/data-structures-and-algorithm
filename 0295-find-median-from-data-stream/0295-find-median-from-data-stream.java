@@ -1,37 +1,38 @@
 class MedianFinder {
 
-    PriorityQueue<Integer> p1;
-    PriorityQueue<Integer> p2;
+    PriorityQueue<Integer> min;
+    PriorityQueue<Integer> max;
 
     public MedianFinder() {
-        p1 = new PriorityQueue<>();
-        p2 = new PriorityQueue<>(Collections.reverseOrder());
+        min = new PriorityQueue<>();
+        max = new PriorityQueue<>(Collections.reverseOrder());
     }
 
     public void addNum(int num) {
-        if (p2.size() == 0 || p2.peek() > num) {
-            p2.offer(num);
+        if (min.size() == 0 && max.size() == 0)
+            max.add(num);
+        else if (max.size() > min.size()) {
+            if (max.peek() > num) {
+                min.offer(max.poll());
+                max.offer(num);
+            } else {
+                min.offer(num);
+            }
         } else {
-            p1.offer(num);
+            if (num <= max.peek()) {
+                max.offer(num);
+            } else {
+                min.offer(num);
+                max.offer(min.poll());
+            }
         }
-        if (Math.abs(p1.size() - p2.size()) > 1) {
-            balance(p1, p2);
-        }
-    }
-
-    private void balance(PriorityQueue<Integer> p1,PriorityQueue<Integer>p2) {
-        PriorityQueue<Integer> large = p1.size() > p2.size() ? p1 : p2;
-        PriorityQueue<Integer> small = p1.size() > p2.size() ? p2 : p1;
-        small.offer(large.poll());
     }
 
     public double findMedian() {
-        PriorityQueue<Integer> large = p1.size() > p2.size() ? p1 : p2;
-        PriorityQueue<Integer> small = p1.size() > p2.size() ? p2 : p1;
-        if(large.size() == small.size()) {
-            return (double)(large.peek() + small.peek()) / 2;
+        if (max.size() > min.size()) {
+            return max.peek();
         } else {
-            return large.peek();
+            return (max.peek() + min.peek()) / 2.0;
         }
     }
 }
