@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Combinatorics
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1508-longest-happy-prefix) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
 | ------- |
