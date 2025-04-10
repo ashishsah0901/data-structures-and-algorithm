@@ -2,30 +2,36 @@ class MedianFinder {
 
     PriorityQueue<Integer> p1;
     PriorityQueue<Integer> p2;
-    boolean even;
 
     public MedianFinder() {
         p1 = new PriorityQueue<>();
         p2 = new PriorityQueue<>(Collections.reverseOrder());
-        even = true;
     }
 
     public void addNum(int num) {
-        if (even) {
-            p1.offer(num);
-            p2.offer(p1.poll());
-        } else {
+        if (p2.size() == 0 || p2.peek() > num) {
             p2.offer(num);
-            p1.offer(p2.poll());
+        } else {
+            p1.offer(num);
         }
-        even = !even;
+        if (Math.abs(p1.size() - p2.size()) > 1) {
+            balance(p1, p2);
+        }
+    }
+
+    private void balance(PriorityQueue<Integer> p1,PriorityQueue<Integer>p2) {
+        PriorityQueue<Integer> large = p1.size() > p2.size() ? p1 : p2;
+        PriorityQueue<Integer> small = p1.size() > p2.size() ? p2 : p1;
+        small.offer(large.poll());
     }
 
     public double findMedian() {
-        if (even) {
-            return (p2.peek() + p1.peek()) / 2.0;
+        PriorityQueue<Integer> large = p1.size() > p2.size() ? p1 : p2;
+        PriorityQueue<Integer> small = p1.size() > p2.size() ? p2 : p1;
+        if(large.size() == small.size()) {
+            return (double)(large.peek() + small.peek()) / 2;
         } else {
-            return p2.peek();
+            return large.peek();
         }
     }
 }
