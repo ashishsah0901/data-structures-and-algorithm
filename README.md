@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0133-clone-graph) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0094-binary-tree-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
