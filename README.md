@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -415,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
