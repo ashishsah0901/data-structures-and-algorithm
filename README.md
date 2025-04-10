@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Trie
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0173-binary-search-tree-iterator](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -461,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
