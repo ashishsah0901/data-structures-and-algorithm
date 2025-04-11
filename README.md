@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1508-longest-happy-prefix) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Recursion
 |  |
 | ------- |
