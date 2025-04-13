@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0206-reverse-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1197-parsing-a-boolean-expression) |
+| [2050-count-good-numbers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
 | ------- |
