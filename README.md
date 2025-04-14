@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1121-partition-array-for-maximum-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1656-count-good-triplets](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1656-count-good-triplets) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
