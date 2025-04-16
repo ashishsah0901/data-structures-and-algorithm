@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0518-coin-change-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0699-falling-squares) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0967-minimum-falling-path-sum) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0493-reverse-pairs) |
+| [0699-falling-squares](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0699-falling-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0493-reverse-pairs](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0699-falling-squares](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0699-falling-squares) |
 ## Stack
 |  |
 | ------- |
