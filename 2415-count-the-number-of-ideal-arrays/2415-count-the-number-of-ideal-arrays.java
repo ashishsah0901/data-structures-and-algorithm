@@ -1,53 +1,61 @@
-import java.math.BigInteger;
-
 class Solution {
-    public int idealArrays(int n, int maxValue) {
-        int m = 1000000007;
-        BigInteger res = BigInteger.ZERO;
-        long[][] dp = new long[15][maxValue + 1]; 
-        Map<Integer, List<Integer>> map = buildMap(maxValue);
-        for (int i = 1; i <= maxValue; i++) {
-            dp[1][i] = 1;
+
+    static int MOD = 1000000007;
+    static int MAX_N = 10010;
+    static int MAX_P = 15;
+    static int[][] c = new int[MAX_N + MAX_P][MAX_P + 1];
+    static int[] sieve = new int[MAX_N];
+    static List<Integer>[] ps = new List[MAX_N];
+
+    public Solution() {
+        if (c[0][0] == 1) {
+            return;
         }
-        for (int i = 2; i <= n && i <= 14; i++) {
-            for (int j = 1; j <= maxValue; j++) {
-                for (int k : map.get(j)) {
-                    dp[i][j] += dp[i - 1][k];
-                    dp[i][j] %= m;
+
+        for (int i = 0; i < MAX_N; i++) {
+            ps[i] = new ArrayList<>();
+        }
+
+        for (int i = 2; i < MAX_N; i++) {
+            if (sieve[i] == 0) {
+                for (int j = i; j < MAX_N; j += i) {
+                    if (sieve[j] == 0) {
+                        sieve[j] = i;
+                    }
                 }
             }
         }
-        for (int i = 1; i <= n && i <= 14; i++) {
-            for (int j = 1; j <= maxValue; j++) {
-                dp[i][0] += dp[i][j];
-                dp[i][0] %= m;
+
+        for (int i = 2; i < MAX_N; i++) {
+            int x = i;
+            while (x > 1) {
+                int p = sieve[x], cnt = 0;
+                while (x % p == 0) {
+                    x /= p;
+                    cnt++;
+                }
+                ps[i].add(cnt);
             }
         }
-        for (int i = 1; i <= n && i <= 14; i++) {
-            res = res.add(nCk(n - 1, i - 1).multiply(BigInteger.valueOf(dp[i][0])));
-            res = res.mod(BigInteger.valueOf(m));
-        }
-        return res.intValue();
-    }
-    private BigInteger nCk(int n, int k) {
-        BigInteger res = BigInteger.ONE;
-        for (int i = 1; i <=k; i++) {
-            res = res.multiply(BigInteger.valueOf(n - (i - 1))).divide(BigInteger.valueOf(i));
-        }
-        return res;
-    }
-    private Map<Integer, List<Integer>> buildMap(int maxValue) {
-        Map<Integer, List<Integer>> map = new HashMap<>();
-        for (int i = 1; i <= maxValue; i++) {
-            map.put(i, new ArrayList<>());
-        }
-        for (int i = 1; i <= maxValue; i++) {
-            int j = i * 2;
-            while (j <= maxValue) {
-                map.get(j).add(i);
-                j += i;
+
+        c[0][0] = 1;
+        for (int i = 1; i < MAX_N + MAX_P; i++) {
+            c[i][0] = 1;
+            for (int j = 1; j <= Math.min(i, MAX_P); j++) {
+                c[i][j] = (c[i - 1][j] + c[i - 1][j - 1]) % MOD;
             }
         }
-        return map;
+    }
+
+    public int idealArrays(int n, int maxValue) {
+        long ans = 0;
+        for (int x = 1; x <= maxValue; x++) {
+            long mul = 1;
+            for (int p : ps[x]) {
+                mul = (mul * c[n + p - 1][p]) % MOD;
+            }
+            ans = (ans + mul) % MOD;
+        }
+        return (int) ans;
     }
 }
