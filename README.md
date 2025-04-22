@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Indexed Tree
@@ -513,4 +516,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+## Counting
+|  |
+| ------- |
+| [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 <!---LeetCode Topics End-->
