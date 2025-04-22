@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2050-count-good-numbers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2998-count-symmetric-integers) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
 ## Dynamic Programming
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
 ## Array
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1508-longest-happy-prefix) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
 |  |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1129-longest-string-chain) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3548-find-the-count-of-good-integers](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Binary Indexed Tree
