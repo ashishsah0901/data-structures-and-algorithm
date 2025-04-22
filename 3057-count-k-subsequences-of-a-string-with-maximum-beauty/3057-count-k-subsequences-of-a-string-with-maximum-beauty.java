@@ -1,32 +1,28 @@
 class Solution {
-    int MOD = (int) 1e9 + 7;
-    int[] map;
-
     public int countKSubsequencesWithMaxBeauty(String s, int k) {
-        map = new int[26];
-        for (char ch : s.toCharArray()) {
-            map[ch - 'a']++;
+        int n = s.length();
+        int count[] = new int[26];
+        for (char c: s.toCharArray()) {
+            count[c - 'a']++;
         }
-        int count = 0;
-        for (int num : map) {
-            if (num > 0) count++;
+        Arrays.sort(count);
+        if (k > 26 || count[26 - k] == 0) {
+            return 0;
         }
-        if (k > count) return 0;
-        Arrays.sort(map);
-        int max = Arrays.stream(map).skip(26 - k).sum();
-        return helper(0, k, max, new HashMap<>());
-    }
-
-    int helper(int idx, int k, int sum, Map<String, Integer> dp) {
-        if (k == 0 && sum == 0) return 1;
-        if (sum <= 0 || k <= 0 || idx == 26) return 0;
-        String key = idx + "," + sum + "," + k;
-        if (dp.containsKey(key)) return dp.get(key);
-
-        long pick = (map[idx] * 1L * helper(idx + 1, k - 1, sum - map[idx], dp)) % MOD;
-        long notpick = helper(idx + 1, k, sum, dp);
-
-        dp.put(key, (int) (pick + notpick) % MOD);
-        return dp.get(key);
+        long res = 1, comb = 1, mod = (long) 1e9 + 7, bar = count[26 - k], pend = 0;
+        for (int freq: count) {
+            if (freq > bar) {
+                k--;
+                res = res * freq % mod;
+            }
+            if (freq == bar) {
+                pend++;
+            }
+        }
+        for (int i = 0; i < k; i++) {
+            comb = comb * (pend - i) / (i + 1);
+            res = res * bar % mod;
+        }
+        return (int)(res * comb % mod);
     }
 }
