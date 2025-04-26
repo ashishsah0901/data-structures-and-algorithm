@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Iterator
 |  |
 | ------- |
@@ -519,9 +521,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Counting
 |  |
 | ------- |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
