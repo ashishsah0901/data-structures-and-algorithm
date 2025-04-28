@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2262-solving-questions-with-brainpower](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Bit Manipulation
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/0238-product-of-array-except-self) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3266-find-longest-special-substring-that-occurs-thrice-ii](https://github.com/ashishsah0901/data-structures-and-algorithm/tree/master/3266-find-longest-special-substring-that-occurs-thrice-ii) |
 ## Counting
